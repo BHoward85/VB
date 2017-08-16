@@ -1,0 +1,38 @@
+\\netstorage.eastern.ewu.edu\bhoward4\visual studio 2015\Projects\CWSFSC\CWSFSC\bin\Debug\CWSFSC.exe.config
+F:\CWSFSC\CWSFSC\bin\Debug\CWSFSC.exe.config
+F:\CWSFSC\CWSFSC\bin\Debug\CWSFSC.exe
+F:\CWSFSC\CWSFSC\bin\Debug\CWSFSC.pdb
+F:\CWSFSC\CWSFSC\bin\Debug\CWSFSC.xml
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.vbprojResolveAssemblyReference.cache
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.StressClassCal.resources
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.Resources.resources
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.vbproj.GenerateResource.Cache
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.exe
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.xml
+F:\CWSFSC\CWSFSC\obj\Debug\CWSFSC.pdb
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\bin\Debug\CWSFSC.exe.config
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.exe
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.xml
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.pdb
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\bin\Debug\CWSFSC.exe
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\bin\Debug\CWSFSC.pdb
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\bin\Debug\CWSFSC.xml
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.vbprojResolveAssemblyReference.cache
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.StressClassCal.resources
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.Resources.resources
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC\CWSFSC\obj\Debug\CWSFSC.vbproj.GenerateResource.Cache
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\bin\Debug\CWSFSC.exe.config
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.exe
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.xml
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.pdb
+F:\CWSFSC v2\CWSFSC\bin\Debug\CWSFSC.exe.config
+F:\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.exe
+F:\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.xml
+F:\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.pdb
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.vbprojResolveAssemblyReference.cache
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.StressClassCal.resources
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.Resources.resources
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\obj\Debug\CWSFSC.vbproj.GenerateResource.Cache
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\bin\Debug\CWSFSC.exe
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\bin\Debug\CWSFSC.pdb
+E:\Fox\CWFB-SSD\CWFB-A\J0.0 FIGHTERS, SHUTTLES, AND A.P.C.S\Support Programs\CWSFSC v2\CWSFSC\bin\Debug\CWSFSC.xml
